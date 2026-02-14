@@ -6,7 +6,6 @@ tags:
 重要更新：从版本 25.0.0 开始，VMware Workstation Pro 已完全免费，不再区分免费版（Player）和付费版（Pro），对所有个人和商业用户开放使用，安装程序也不再需要输入许可证密钥。
 
 📥 第一步：下载 VMware Workstation
-根据你的建议，可以通过 360 软件宝库获取安装包：
 
 访问下载页面：[360软件宝库下载](https://baoku.360.cn/qbfl/104656605.html)
 
