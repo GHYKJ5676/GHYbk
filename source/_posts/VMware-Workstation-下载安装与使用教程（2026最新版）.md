@@ -2,6 +2,11 @@
 title: VMware Workstation 下载安装与使用教程（2026最新版）~
 date: 2026-02-14 14:02:25
 tags:
+  - 美化
+  - Windows
+  - 工具
+categories:
+  - 软件推荐
 ---
 重要更新：从版本 25.0.0 开始，VMware Workstation Pro 已完全免费，不再区分免费版（Player）和付费版（Pro），对所有个人和商业用户开放使用，安装程序也不再需要输入许可证密钥。
 
