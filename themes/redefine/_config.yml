@@ -211,6 +211,12 @@ navbar:
     About:
       path: /about/
       icon: "fa-solid fa-circle-info"
+    Tags:
+      path: /tags/
+      icon: fa-solid fa-tags
+    Categories:
+      path: /categories/
+      icon: fa-solid fa-folder
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
@@ -234,7 +240,7 @@ navbar:
   # Navbar search (local search). Requires hexo-generator-searchdb (npm i hexo-generator-searchdb). See https://github.com/theme-next/hexo-generator-searchdb
   search:
     # Whether to enable
-    enable: false
+    enable: true
     # Preload search data when the page loads
     preload: true
 # NAVIGATION BAR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
