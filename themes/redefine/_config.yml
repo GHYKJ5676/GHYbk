@@ -207,16 +207,16 @@ navbar:
   links:
     Home: 
       path: / 
-      icon: fa-regular fa-house # can be empty
-    About:
-      path: /about/
-      icon: "fa-solid fa-circle-info"
+      icon: "fa-solid fa-house" # can be empty
     Tags:
       path: /tags/
       icon: fa-solid fa-tags
     Categories:
       path: /categories/
       icon: fa-solid fa-folder
+    About:
+      path: /about/
+      icon: "fa-solid fa-circle-info"
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
